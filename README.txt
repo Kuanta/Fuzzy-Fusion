@@ -61,7 +61,7 @@
 #
 # 2.) Once all of the relevant libraries are installed, make sure you have
 #     the “trapANFISPyTorchDeep.py” and “dataset_utils.py” in the same directory,
-#     since we will be using “dataset_utils.py” as a library within “ANFIS…”
+#     since we will be using “dataset_utils.py” as a library within “trapANFIS…”
 #
 ##############################################################################
 ##############################################################################
